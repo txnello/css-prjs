@@ -16,3 +16,12 @@ https://github.com/txnello/css-prjs/assets/49204166/8b70fca3-e096-46f5-bacf-3cef
   <summary>FrontendMentor.io QR Code Challenge</summary>
   <img src="https://i.imgur.com/FsAQA8S.jpg">
 </details>
+
+<details>
+  <summary>Interactive rating system</summary>
+  
+
+https://github.com/txnello/css-prjs/assets/49204166/d5312e8d-d375-440a-a269-7c42b09fa072
+
+
+</details>
