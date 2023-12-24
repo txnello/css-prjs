@@ -1,0 +1,37 @@
+.box {
+    text-align: center;
+}
+
+.hideBox {
+    display: none;
+}
+
+.box #resultImg {
+    width: 200px;
+    margin: 50px 0 30px 0;
+}
+
+.resultBox {
+    background-color: hsl(213, 19%, 18%);
+    width: 220px;
+    border-radius: 30px;
+}
+
+.resultBox p {
+    color: hsl(25, 97%, 53%);
+    padding: 8px 0 5px 0;
+    font-size: 18px;
+
+    text-align: center;
+}
+
+.box #title {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.box #text {
+    text-align: center;
+    padding-bottom: 50px;
+}

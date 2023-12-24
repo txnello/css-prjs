@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <title>FM Challenge - Interactive rating component</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Overpass&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="centerDiv">
+    <div class="box">
+      <div class="starIcon">
+        <img src="images/icon-star.svg">
+      </div>
+
+      <p id="title">How did we do?</p>
+
+      <p id="text">
+        Please let us know how we did with your support request. All feedback is appreciated to help us improve our offering!
+      </p>
+
+      <div class="grades">
+        <span id="grade0" class="grade" onclick="setVote(0)">
+          <p>1</p>
+        </span>
+        <span id="grade1" class="grade" onclick="setVote(1)">
+          <p>2</p>
+        </span>
+        <span id="grade2" class="grade" onclick="setVote(2)">
+          <p>3</p>
+        </span>
+        <span id="grade3" class="grade" onclick="setVote(3)">
+          <p>4</p>
+        </span>
+        <span id="grade4" class="grade" onclick="setVote(4)">
+          <p>5</p>
+        </span>
+      </div>
+
+      <div id="submitButton" class="submitButton readOnlySubmitButton" onclick="saveVote()">
+        <p>SUBMIT</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
