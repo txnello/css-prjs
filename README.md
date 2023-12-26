@@ -25,3 +25,8 @@ https://github.com/txnello/css-prjs/assets/49204166/d5312e8d-d375-440a-a269-7c42
 
 
 </details>
+
+<details>
+  <summary>FrontendMentor.io Blog Card Project</summary>
+  <img src="https://i.imgur.com/jfZad8R.png">
+</details>
