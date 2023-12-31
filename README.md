@@ -35,3 +35,9 @@ https://github.com/txnello/css-prjs/assets/49204166/d5312e8d-d375-440a-a269-7c42
   <summary>FrontendMentor.io Profile Card Project (profile-card-component-main)</summary>
   <img src="https://i.imgur.com/eToPUw2.png">
 </details>
+
+<details>
+  <summary>FrontendMentor.io Product Card Project (product-preview-card-component-main)</summary>
+  <img src="https://i.imgur.com/KX9vO4T.png">
+  <img src="https://i.imgur.com/Ypz2cyz.png">
+</details>
