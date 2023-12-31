@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    /* font-family: 'Fraunces', serif; */
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: hsl(30, 38%, 92%);
+}
+
+.centerDiv {
+    margin: 200px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.boxCoverLeft {
+    background-color: white;
+    border-radius: 15px;
+
+    width: 95%;
+    max-width: 800px;
+
+    box-shadow: 20px 20px 40px rgb(0, 0, 0, 0.1);
+}
+
+.boxCoverTop {
+    background-color: white;
+    border-radius: 15px;
+
+    width: 95%;
+    max-width: 800px;
+    height: 100%;
+
+    box-shadow: 20px 20px 40px rgb(0, 0, 0, 0.1);
+}
+
+.coverLeft {
+    height: 100%;
+    width: 50%;
+
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+    float: left;
+}
+
+.coverTop {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.cardDataCoverLeft {
+    margin: 40px 0;
+    margin-left: calc(50% + 50px);
+    margin-right: 50px;
+
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    height: calc(100% - 80px);
+}
+
+.cardDataCoverTop {
+    margin: 40px 50px;
+
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    height: calc(70%);
+}
+
+#tag {
+    color: hsl(228, 12%, 48%);
+    letter-spacing: 3px;
+}
+
+#title {
+    font-family: 'Fraunces', serif;
+    font-size: 50px;
+    font-weight: bolder;
+    color: hsl(212, 21%, 14%);
+
+    padding: 20px 0;
+    line-height: 45px;
+}
+
+#description {
+    color: hsl(228, 12%, 48%);
+    font-size: 18px;
+
+    line-height: 25px;
+}
+
+.prices {
+    display: flex;
+    align-items: center;
+
+    padding: 30px 0;
+}
+
+#actualPrice {
+    font-family: 'Fraunces', serif;
+    color: hsl(158, 36%, 37%);
+    font-size: 45px;
+    font-weight: bold;
+}
+
+#prevPrice {
+    color: hsl(228, 12%, 48%);
+    font-size: 18px;
+    text-decoration: line-through;
+
+    padding-left: 20px;
+}
+
+.addCartButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    background-color: hsl(158, 36%, 37%);
+
+    height: 60px;
+    border-radius: 10px;
+
+    transition: background-color 0.3s;
+}
+
+.addCartButton:hover {
+    cursor: pointer;
+    background-color: hsl(158, 36%, 20%);;
+}
+
+.addCartButton p {
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+
+    padding: 0 10px;
+}
+
+.addCartButton img {
+    width: 20px;
+}
