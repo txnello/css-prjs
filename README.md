@@ -41,3 +41,9 @@ https://github.com/txnello/css-prjs/assets/49204166/d5312e8d-d375-440a-a269-7c42
   <img src="https://i.imgur.com/KX9vO4T.png">
   <img src="https://i.imgur.com/Ypz2cyz.png">
 </details>
+
+<details>
+  <summary>FrontendMentor.io Coming Soon Page Project (base-apparel-coming-soon-master)</summary>
+  <img src="https://i.imgur.com/okOZ6Qf.png">
+  <img src="https://i.imgur.com/n7KYW30.png">
+</details>
