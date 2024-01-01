@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+    background-image: url(images/bg-pattern-desktop.svg);
+    background-size: cover;
+}
+
+.logo {
+    padding: 60px 30px;
+    width: 35%;
+}
+
+.heroImg {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    object-position: 100% 0%;
+}
+
+.content {
+    width: 100%;
+
+    text-align: center;
+}
+
+.content #titleRow1 {
+    color: hsl(0, 36%, 70%);
+    font-size: 40px;
+    font-weight: 300;
+
+    letter-spacing: 10px;
+
+    margin-top: 60px;
+}
+
+.content #titleRow2 {
+    color: hsl(0, 6%, 24%);
+    font-size: 40px;
+    font-weight: 600;
+
+    letter-spacing: 10px;
+    line-height: 50px;
+}
+
+.content #description {
+    color: hsl(0, 36%, 70%);
+    font-size: 18px;
+    line-height: 40px;
+
+    padding: 40px 20px;
+}
+
+.emailField {
+    margin: 0 20px;
+    margin-bottom: 50px;
+}
