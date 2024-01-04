@@ -47,3 +47,10 @@ https://github.com/txnello/css-prjs/assets/49204166/d5312e8d-d375-440a-a269-7c42
   <img src="https://i.imgur.com/okOZ6Qf.png">
   <img src="https://i.imgur.com/n7KYW30.png">
 </details>
+
+<details>
+  <summary>FrontendMentor.io Social Proof Project (social-proof-section-master)</summary>
+  <img src="https://i.imgur.com/BmAouY1.png">
+  <img src="https://i.imgur.com/wzx4KwA.png">
+  <img src="https://i.imgur.com/Uk62qwp.png">
+</details>
