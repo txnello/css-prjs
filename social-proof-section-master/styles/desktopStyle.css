@@ -1,0 +1,153 @@
+#pattern-top-desktop {
+    position: absolute;
+
+    top: 0;
+    left: 0;
+
+    z-index: -1;
+}
+
+#pattern-bottom-desktop {
+    position: absolute;
+
+    bottom: 0;
+    right: 0;
+
+    z-index: -1;
+}
+
+#pattern-top-mobile {
+    display: none;
+}
+
+#pattern-bottom-mobile {
+    display: none;
+}
+
+.header {
+    margin: 100px 15%;
+
+    display: flex;
+}
+
+.pageTitle {
+    padding-right: 150px;
+}
+
+#title {
+    font-size: 65px;
+    font-weight: 700;
+    color: hsl(300, 43%, 22%);
+}
+
+#description {
+    font-size: 22px;
+
+    color: hsl(303, 10%, 53%);
+
+    line-height: 30px;
+
+    padding: 20px 0;
+}
+
+.reviews {
+    margin-top: 40px;
+}
+
+.review {
+    height: 60px;
+    width: 500px;
+
+    background-color: hsl(300, 24%, 96%);
+
+   display: flex;
+   align-items: center;
+
+   border-radius: 7px;
+   margin-bottom: 20px;
+}
+
+.review img {
+    width: 20px;
+    height: 18px;
+
+    padding: 0 2px;
+}
+
+.stars {
+    padding: 0 30px;
+}
+
+.review p {
+    color: hsl(300, 43%, 22%);
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.marginMediumLeft {
+    margin-left: 40px;
+}
+
+.marginHighLeft {
+    margin-left: 80px;
+}
+
+.marginMediumTop {
+    margin-top: 20px;
+}
+
+.marginHighTop {
+    margin-top: 40px;
+}
+
+.peopleBoxes {
+    margin: 100px 15%;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.personBox {
+    width: 30%;
+    height: 100%;
+
+    background-color: hsl(300, 43%, 22%);
+
+    border-radius: 10px;
+}
+
+.boxHeader {
+    display: flex;
+    width: 100%;
+
+    align-items: center;
+
+    padding: 40px 30px;
+}
+
+.boxHeader img {
+    border-radius: 100px;
+    width: 40px;
+}
+
+.userData {
+    margin-left: 20px;
+}
+
+.userData #name {
+    font-weight: 700;
+    color: white;
+}
+
+.userData #status {
+    color: hsl(333, 80%, 67%);
+    padding-top: 3px;
+}
+
+.personBox #review {
+    font-size: 18px;
+    color: white;
+    padding: 0 30px 40px 30px;
+
+    line-height: 23px;
+}
