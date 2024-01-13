@@ -54,3 +54,9 @@ https://github.com/txnello/css-prjs/assets/49204166/d5312e8d-d375-440a-a269-7c42
   <img src="https://i.imgur.com/wzx4KwA.png">
   <img src="https://i.imgur.com/Uk62qwp.png">
 </details>
+
+<details>
+  <summary>FrontendMentor.io Newsletter Project (newsletter-sign-up-with-success-message-main)</summary>
+  <img src="https://i.imgur.com/J0eV7ec.png">
+  <img src="https://i.imgur.com/Zcqh6D2.png">
+</details>
