@@ -1,0 +1,61 @@
+.centerBox {
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: hsl(234, 29%, 20%);
+}
+
+.box {
+    display: flex;
+    position: relative;
+
+    background-color: white;
+    width: 95%;
+    max-width: 900px;
+    height: 600px;
+
+    padding: 25px;
+    border-radius: 20px;
+}
+
+#boxImgDesktop {
+    position: absolute;
+    right: 25px;
+
+    height: calc(100% - 50px);
+}
+
+#boxImgMobile {
+    display: none;
+}
+
+.content {
+    padding: 7% 40px;
+    width: 40%;
+}
+
+.customInputField input {
+    padding: 20px 10px;
+    width: 100%;
+
+    outline: none;
+    border: 1px solid hsl(231, 7%, 60%);
+    border-radius: 10px;
+
+    margin: 10px 0;
+}
+
+.submitButton {
+    background-color: hsl(234, 29%, 20%);
+
+    width: 100%;
+    text-align: center;
+
+    padding: 20px 10px;
+    margin: 15px 0;
+
+    border-radius: 10px;
+}
