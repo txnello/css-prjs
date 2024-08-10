@@ -61,3 +61,9 @@ https://github.com/txnello/css-prjs/assets/49204166/d5312e8d-d375-440a-a269-7c42
   <img src="https://i.imgur.com/X1aj8SM.png">
   <img src="https://i.imgur.com/Zcqh6D2.png">
 </details>
+
+<details>
+  <summary>FrontendMentor.io NFT Card Component Project (nft-preview-card-component-main)</summary>
+  <img src="https://i.imgur.com/rW19UNp.png">
+  <img src="https://i.imgur.com/Kz8DZad.png">
+</details>
