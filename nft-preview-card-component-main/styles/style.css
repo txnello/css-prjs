@@ -1,0 +1,118 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Figtree', sans-serif;
+}
+
+.centerDiv {
+    margin: 100px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    background-color: hsl(216, 50%, 16%);
+    width: 90%;
+    max-width: 350px;
+    border-radius: 15px;
+    padding: 25px;
+
+    box-shadow: 20px 20px 40px hsla(240, 54%, 11%, 0.3);
+}
+
+#cover {
+    box-sizing: border-box;
+    width: 100%;
+
+    border-radius: 10px;
+}
+
+#title {
+    font-size: 25px;
+    font-weight: bold;
+    color: hsl(0, 0%, 100%);
+
+    margin: 20px 0;
+}
+
+#description {
+    font-size: 20px;
+    color: hsl(216, 15%, 40%);
+
+    margin-bottom: 20px;
+}
+
+.symmetrical-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+
+    margin-bottom: 25px;
+}
+
+.eth-value, .time-left {
+    display: flex;
+    align-items: center;
+}
+
+.eth-value img, .time-left img {
+    height: 20px;
+    padding-right: 10px;
+}
+
+.eth-value #eth-value-text, .time-left #time-left-text {
+    font-size: 18px;
+    font-weight: bold;
+
+    margin: 0;
+}
+
+.eth-value #eth-value-text {
+    color: hsl(178, 100%, 50%);
+}
+
+.time-left #time-left-text {
+    color: hsl(215, 51%, 70%);
+}
+
+.divider {
+    border-top: 1px solid hsl(216, 15%, 33%);
+    
+    width: 100%;
+    box-sizing: border-box;
+
+    margin: 20px 0;
+}
+
+.createdby-row {
+    display: flex;
+    align-items: center;
+}
+
+.createdby-row img {
+    width: 35px;
+    height: 35px;
+
+    border: 2px solid white;
+    border-radius: 100%;
+
+    margin-right: 15px;
+}
+
+.createdby-row #creation-of {
+    font-size: 18px;
+    color: hsl(215, 51%, 70%);
+    font-weight: 500;
+}
+
+.createdby-row #avatar-name {
+    font-size: 18px;
+    color: hsl(0, 0%, 100%);
+
+    margin-left: 5px;
+    font-weight: 500;
+}
+
+@media only screen and (max-width: 600px) {
+    
+}
