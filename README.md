@@ -1,9 +1,11 @@
+# Introduction
 Hello, here you can find some UI projects I did (mainly HTML, CSS and JS).
 
 In this readme, I want to list some screenshots to show you the results.
 
 Thank you!
 
+# Screenshots
 <details>
   <summary>Cards/gallery in HTML + CSS + JS (css cards)</summary>
 
